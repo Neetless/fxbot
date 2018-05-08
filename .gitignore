@@ -1,0 +1,7 @@
+# temporary files
+*~
+*.swp
+
+# script to run bot.
+# this contains apikey and apisecret
+run.sh
